@@ -1,12 +1,11 @@
-# 4all-downloader
-# 🚀 4all Downloader&converter – "Bring your own download engine"
+# 4all-downloader  
+# 🚀 4all Downloader & Converter – "Bring your own download engine"
 
 **A sleek, cross-platform, all-in-one media downloader built for everyone. Lightweight, powerful, and fully customizable. Whether you're grabbing YouTube videos, full playlists, or high-speed direct downloads — 4all has you covered.**
 
 ---
 
-![Welcome Screen – Multi-language Support](./images/4all-welcome.PNG)
-
+![Welcome Screen – Multi-language Support](./images/4all-welcome.PNG)  
 > 🌍 **Every language is supported** – Choose your native tongue at startup for a fully localized experience.
 
 ---
@@ -14,9 +13,9 @@
 ## 🧠 Core Engine Features
 
 - ⚙️ **Plug-and-play engine system**
-  - Comes with `yt-dlp`, `aria2`, and `mx2` pre-configured also it will support java crwaling base on what you think is best.
+  - Comes with `yt-dlp`, `aria2`, and `mx2` pre-configured — and will soon support Java-based crawling if needed.
   - Easily add your own engine by defining it in `settings.json`
-  -  Download even big files - biult ingines on addition to popular like axel, wget and mr curl.
+  - Download even large files using built-in engines in addition to popular tools like Axel, Wget, and Mr. Curl.
 
 - ♻️ **Resume ANY download**
   - Crash-resistant: every download is checkpointed with `.json`
@@ -32,11 +31,13 @@
   - Choose your preferred folder
   - Full control over video/audio format selection
 
-- And secret features like 10 more - lets bring power of open source together.
+- 🔐 **And 10+ secret power features**
+  - Discover them while using — a true open-source gem.
 
 ---
 
-## 🖥️ Modern User Interface (No longer tkinter just combining power of kivy, flet,pyqt6, customtkinter)
+## 🖥️ Modern User Interface  
+**No longer limited to Tkinter — combines the power of Kivy, Flet, PyQt6, and CustomTkinter**
 
 ![Settings Page – Accent Color, Proxy, Language](./images/4all-67.PNG)
 
@@ -44,12 +45,16 @@
   - `Active` and `Completed` downloads, always sorted with latest first
   - Clean, minimal look — no bloat
 
+![Download Tab – Organized Layout](./images/download_tab.PNG)
+
 - 🛠️ **Settings Panel**
   - Choose accent color, proxy, cookies, and user-agent headers
   - Full language selection and customization options
-  - proxy
-  - cookies
-  - Download thread for batch downloading.
+  - Proxy support for regional access
+  - Add cookies for private content
+  - Download thread manager for parallel batch downloads
+
+![Dark Mode Settings](./images/darkmode.PNG)
 
 - 📊 **Live Progress Monitoring**
   - Intuitive controls: ▶️ Resume, ⏸️ Pause, ❌ Cancel
@@ -60,7 +65,7 @@
   - All operations handled silently in background threads
 
 - 🎬 **Built-in video preview**
-  - Watch what you're downloading in real-time using the integrated **QPlayer** from PyQt6 and fmpeg and youtube video player
+  - Watch what you're downloading in real-time using the integrated **QPlayer** from PyQt6, FFmpeg, and YouTube-compatible video player
 
 ---
 
@@ -70,9 +75,9 @@
 
 - 🔍 **Keyword-based search**
   - Search and download videos using keywords directly within the app
-  - Supports YouTube and other major platforms with power to add custom engines we can support infinite sites so?
-  - Able to download from 1,000,000,000,000,000,0000 sites.
-  - Cause no limit if site does not have. you can create custom executable and use it to download that site.
+  - Supports YouTube and other major platforms with power to add custom engines
+  - Able to download from **a limitless number of sites**
+  - If a site isn't supported? Just plug in your own executable to download it
 
 ---
 
@@ -82,36 +87,36 @@
   - Download entire playlists or select specific videos
 
 - 🎨 **Theme customization**
-  - Switch between light and dark modes to suit your preference
+  - Light and dark modes with accent color switching
 
 - 🧰 **Multiple user modes**
-  - Novice: Easy one-click downloads
-  - Professional: Detailed format selection and thumbnails
-  - Expert: Raw `yt-dlp` command support
+  - **Novice:** One-click downloads
+  - **Professional:** Advanced format chooser + thumbnails
+  - **Expert:** Raw `yt-dlp` command interface
 
 - 🛠️ **Built-in converter**
-  - Convert videos between formats like MP4, MKV, WebM, AVI, and GIF
-  - Extract audio as MP3, WAV, M4A, and more
+  - Convert videos to MP4, MKV, WebM, AVI, GIF, and more
+  - Extract audio to MP3, WAV, M4A, and others
 
-- 📜 **Full download history**
-  - Keep track of all your downloads with detailed logs
+- 📜 **Download history**
+  - Persistent, human-readable download log
 
 - 🧩 **Dual Interface**
-  - Seamlessly switch between the GUI and CLI based on your workflow needs
+  - Use either the beautiful GUI or switch to full CLI mode
 
 ---
 
 ## 🔥 Why Choose 4all Downloader?
 
-- 💡 Add any engine you want — no restrictions
-- 🪶 Extremely lightweight and responsive
-- 🧱 Fully offline-capable (with bundled dependencies)
-- 🛠️ 100% configurable — from UI behavior to CLI arguments
-- 🧼 Open-format JSON-based storage for persistence (portable & human-readable)
-- 🏗️ Ideal for power users, researchers, and media hoarders alike
+- 💡 Add **any engine** — no restrictions or vendor lock-in
+- 🪶 Ultra-lightweight with multi-core support
+- 🧱 Works **fully offline** (bundles dependencies)
+- 🛠️ Advanced yet simple — every aspect can be configured
+- 🧼 Uses clean, open `.json` config and history for portability
+- 🏗️ Ideal for power users, media collectors, automation setups, and curious hackers
 
 ---
 
-**4all Downloader is the ultimate universal media toolkit — built on freedom, not limitations.**
+**4all Downloader is your ultimate universal media toolkit — open, expandable, and built for you.**
 
-> 🍥 Simple for beginners. Infinite for pros.
+> 🍥 **Simple for beginners. Infinite for pros.**
