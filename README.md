@@ -5,6 +5,8 @@
 **A sleek, cross-platform, all-in-one media downloader built for everyone. Lightweight, powerful, and fully customizable. Whether you're grabbing YouTube videos, full playlists, or high-speed direct downloads — 4all has you covered.**
 
 ---
+![Welcome Screen – Multi-language Support](./images/4all-browser.PNG) 
+> Biult in browser and freedom of javascript ,also show and hide browser.
 
 ![Welcome Screen – Multi-language Support](./images/4all-welcome.PNG)  
 > 🌍 **Every language is supported** – Choose your native tongue at startup for a fully localized experience.
