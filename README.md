@@ -1,6 +1,6 @@
 # 4all-downloader  
 # 🚀 4all Downloader & Converter – "Infinity possibility"
-## To be released end of may
+## To be released mid of june
 
 **A sleek, cross-platform, all-in-one media downloader built for everyone. Lightweight, powerful, and fully customizable. Whether you're grabbing YouTube videos, full playlists, or high-speed direct downloads — 4all has you covered.**
 
