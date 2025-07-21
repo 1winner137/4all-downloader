@@ -48,7 +48,7 @@
   - `Active` and `Completed` downloads, always sorted with latest first
   - Clean, minimal look — no bloat
 
-![Download Tab – Organized Layout](./images/download_tab.PNG)
+![Download Tab – Organized Layout](./images/download.png)
 
 - 🛠️ **Settings Panel**
   - Choose accent color, proxy, cookies, and user-agent headers
