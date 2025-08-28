@@ -1,13 +1,4 @@
-🎉 Welcome to the Most Powerful Media Downloader Ever Built!\n
+🎉 Welcome to the Most Powerful Media Downloader Ever Built!
 
-- ⚡Playlist, channel, liked videos & watch later.\n
-- 📱 Universal Media Downloader - Download anything video/audio/docs/images/ISO..\n
-- 🌐 Built-in Browser - Browse & download seamlessly in one app  
-- ⚡ Lightning-fast downloads with smart resume technology
-- 📝 Full Subtitle Support - Download subtitles in multiple languages
-- 📋 Complete Playlist Downloading - Entire playlists in one click
-- 🎯 Scalable to MILLIONS of platforms just read documentantion.
-- 💻 Automate from Commandline both download and conversion
-- 🌍 Global support with 10+ languages
 
-🏆 Trusted by professionals, content creators, and media enthusiasts worldwide!
+You can run me from terminal! check help
