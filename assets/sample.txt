@@ -1,4 +1,4 @@
 🎉 Welcome to the Most Powerful Media Downloader Ever Built!
+|
 
-
-You can run me from terminal! check help
+You can automate conversiona and download from terminal! check help
