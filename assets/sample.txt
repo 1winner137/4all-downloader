@@ -1,4 +1,4 @@
 🎉 Welcome to the Most Powerful Media Downloader Ever Built!
 |
 
-You can automate conversiona and download from terminal! check help
+You can automate File conversion and Downloading from terminal, even playlist, courses or channel! check help
