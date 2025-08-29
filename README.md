@@ -1,6 +1,6 @@
 # 4all-downloader  
 # 🚀 4all Downloader & Converter – "Infinity possibility"
-## RELEASE IS STILL BETA - MATURE VERSION AND SOURCE CODE ON MID AUGUST
+## RELEASE IS AVAILABLE
 https://1winner137.github.io/4all-downloader.web/ - documentation
 
 **A sleek, cross-platform, all-in-one media downloader built for everyone. Lightweight, powerful, and fully customizable. Whether you're grabbing YouTube videos, full playlists, or high-speed direct downloads — 4all has you covered.**
