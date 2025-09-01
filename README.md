@@ -1,6 +1,9 @@
 # 4all-downloader  
 # 🚀 4all Downloader & Converter – "Infinity possibility"
 ## RELEASE IS AVAILABLE
+
+<a href="https://www.producthunt.com/products/4alldownloader-converter-with-ai?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-4alldownloader&#0045;converter&#0045;with&#0045;ai" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1011658&theme=light&t=1756727453056" alt="4allDownloader&#0038;Converter&#0032;with&#0032;AI - Downloader&#0032;&#0038;&#0032;Converter&#0032;with&#0032;AI&#0032;&#0043;&#0032;built&#0045;in&#0032;browser&#0032;in&#0032;one | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 https://1winner137.github.io/4all-downloader.web/ - documentation
 
 **A sleek, cross-platform, all-in-one media downloader built for everyone. Lightweight, powerful, and fully customizable. Whether you're grabbing YouTube videos, full playlists, or high-speed direct downloads — 4all has you covered.**
