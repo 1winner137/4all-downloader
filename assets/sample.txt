@@ -1,2 +1,3 @@
 🎉 Welcome to the Most Powerful Media Downloader Ever Built!
 You can automate File conversion and Downloading from terminal, even playlist, courses or channel! check help
+NEW VERSION 10 September. More improvement&community support
