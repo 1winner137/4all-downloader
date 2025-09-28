@@ -1,2 +1,1 @@
-🎉 Welcome to 4all Helper!
-You can automate File conversion and Downloading from terminal check help.NEW version available, make sure it have "AI nalaysis button" below download button
+Sorry, There are some bugs like progress not showing,Failure to download consider go to settings tab>Update and maintainance to make it full updated. september29 update would be released.
